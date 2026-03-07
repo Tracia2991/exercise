@@ -1,3 +1,20 @@
+# 深度学习课程作业
+
+本仓库 fork 自官方仓库：  
+https://github.com/nndl/exercise
+
+用于完成课程相关编程练习。
+
+## 已完成内容
+
+### 2026.03.07
+完成 Exercise 1 Warmup（Numpy 基础操作练习），代码位置：chap1_warmup\numpy_ tutorial.ipynb
+
+
+------------
+
+# 原仓库说明
+
 # 《神经网络与深度学习》课程练习
 
 书籍信息：[神经网络与深度学习](https://nndl.github.io/)
