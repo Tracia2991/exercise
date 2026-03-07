@@ -1,9 +1,8 @@
 # 深度学习课程作业
 
-本仓库 fork 自官方仓库：  
-https://github.com/nndl/exercise
+我的作业仓库：https://github.com/Tracia2991/exercise
 
-用于完成课程相关编程练习。
+本仓库 fork 自官方仓库：https://github.com/nndl/exercise ，用于完成课程相关编程练习。
 
 ## 已完成内容
 
