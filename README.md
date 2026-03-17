@@ -8,6 +8,10 @@
 
 ### 2026.03.07
 完成 Exercise 1 Warmup（Numpy 基础操作练习），代码位置：chap1_warmup\numpy_ tutorial.ipynb
+### 2026.03.15-16
+完成 chap4_ simple neural network 的 1. 全连接神经网络（补全了代码） 和 2. 函数拟合（新建function_fitting.ipynb）
+### 2026.03.17
+完成 chap5_CNN 的 MNIST 图像分类 (PyTorch & TensorFlow)
 
 
 ------------
