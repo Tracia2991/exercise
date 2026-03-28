@@ -12,7 +12,8 @@
 完成 chap4_ simple neural network 的 1. 全连接神经网络（补全了代码） 和 2. 函数拟合（新建function_fitting.ipynb）
 ### 2026.03.17
 完成 chap5_CNN 的 MNIST 图像分类 (PyTorch & TensorFlow)
-
+### 2026.03.20
+基本完成 chap6_RNN 的RNN代码模型补全和诗歌生成训练，03.28 补充完整总结报告，chap6_RNN\tangshi_for_pytorch\main.ipynb 中有训练结果及实验报告。
 
 ------------
 
