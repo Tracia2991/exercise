@@ -14,6 +14,8 @@
 完成 chap5_CNN 的 MNIST 图像分类 (PyTorch & TensorFlow)
 ### 2026.03.20
 基本完成 chap6_RNN 的RNN代码模型补全和诗歌生成训练，03.28 补充完整总结报告，chap6_RNN\tangshi_for_pytorch\main.ipynb 中有训练结果及实验报告。
+### 2026.04.04
+完成 chap7_seq2seq-and-attention，实现基础 Seq2Seq 及带双线性注意力的 Seq2Seq 模型，完成字符串逆置任务。
 
 ------------
 
